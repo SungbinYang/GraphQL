@@ -7,17 +7,10 @@
     "url": "url test"
   },
   {
-    "bookId": 2,
-    "title": "title test2",
-    "message": "message test2",
-    "author": "author test2",
-    "url": "url test2"
-  },
-  {
-    "title": "sping toby",
+    "bookId": 3,
+    "title": "sping boot",
     "message": "Good!!",
     "author": "toby",
-    "url": "https://www.google.com",
-    "bookId": 3
+    "url": "https://www.google.com"
   }
 ]
